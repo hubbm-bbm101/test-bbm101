@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "t1",
+      "setup": "",
+      "run": " python 1.py 1 4 3",
+      "input": "1 4 3",
+      "output": "There are two solutions\r\nSolution(s): -1.00 -3.00",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
